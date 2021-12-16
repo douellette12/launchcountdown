@@ -1,5 +1,8 @@
 # Frontend Mentor - Launch countdown timer
 
-![Design preview for the Launch countdown timer coding challenge](./design/desktop-preview.jpg)
+- git clone
+- npm install
+- node server.js
 
-## Welcome! 👋
+Go to localhost:4000 to view
+
